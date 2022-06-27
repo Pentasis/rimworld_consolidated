@@ -1,2 +1,3 @@
-# wimworld_consolidated
-A collection of mechanics from other mods into one.
+# Rimworld_consolidated
+
+A variety of mechanics all rolled into one convinient mod.
